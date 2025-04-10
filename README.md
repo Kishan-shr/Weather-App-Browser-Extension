@@ -3,6 +3,10 @@
 A sleek and simple browser extension to fetch real-time weather updates for any city using the powerful OpenWeatherMap API. Built for ease-of-use with a clean user interface.
 
 ---
+![Design preview for Weather APP ](screenshot%20(1).jpeg)
+![Design preview for Weather APP ](screenshot%20(2).jpeg)
+
+
 
 ## 🌟 Features
 
