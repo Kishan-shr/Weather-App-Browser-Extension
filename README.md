@@ -40,7 +40,7 @@ Create a `config.js` file:
 // config.js
 export const API_KEY = 'YOUR_OPENWEATHERMAP_API_KEY';
 ```
-> ⚠️ **Keep this key private and don't commit it.**
+
 
 ### 3. Load the Extension in Chrome
 1. Go to `chrome://extensions/`
