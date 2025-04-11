@@ -34,7 +34,7 @@ A sleek and simple browser extension to fetch real-time weather updates for any 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/weather-extension.git
+git clone https://github.com/Kishan-shr/Weather-App-Browser-Extension
 cd weather-extension
 ```
 
