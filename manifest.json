@@ -22,7 +22,7 @@
         "css": ["style.css"],
         "js": ["script.js"],
         "config": ["config.js"],
-        "matches": ["<all_urls>"],
+        "matches": ["https://api.openweathermap.org/*"],
         "run_at": "document_end"
       }
     ],
